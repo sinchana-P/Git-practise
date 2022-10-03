@@ -1,1 +1,3 @@
 Hello Git
+
+File was changed by another developer
